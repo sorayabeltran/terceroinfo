@@ -1,3 +1,29 @@
-body{
-	background-color: #33FFB8;
+body
+{ 
+	background-color: #33FFB8; 
+}
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Teko:wght@300;500&display=swap');
+.content{
+background-color: #dda0dd;
+color: black;
+font-family: Times New Roman, sans-serif;
+ }
+.contsecun{
+background-color: #008080;
+color: white;
+    font-family: Algerian, bold;
+}
+.contenten{
+background-color:#faebd7;
+color: black;
+    font-family: Lucida Calligraphy, cursive;
+}
+
+section{
+background: 	#7fffd4;
+color:white;
+text-align-last: center; 
+
 }
